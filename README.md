@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @infamoushotdog
 - 👀 I’m interested in mobile development
+- 💪 I work at Yandex
 - 🌱 I’m currently learning Jetpack Compose
 - 📫 How to reach me: tg @nikitaanikita
 
