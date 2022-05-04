@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @infamoushotdog
+- 👋 Hi, I’m @nikitakrapo
 - 👀 I’m interested in mobile development
 - 💪 I work at Yandex
 - 🌱 I’m currently writing pet project on Compose & MVI
